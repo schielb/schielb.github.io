@@ -38,4 +38,4 @@ By the time I left home for BYU, I already had my major declared, and I couldn't
 
 I attended BYU as an undergrad from 2016-2022 (with a two-year break for a mission for The Church of Jesus Christ of Latter-day Saints, 2017-2019). During this time, I took classes that covered a wide variety of computer topics: from embedded systems, electrical circuits, FPGAs and digital logic, to commons CS classes like data structures and app development. One fun example is building a simple RISC-V processor on an FPGA and using it to run an Atari-style game written in [assembly](https://github.com/schielb/galaga323/blob/master/galaga.s).
 
-While working on these class assignments, two of my classmates and I started to sprinkle in side projects together. We worked on a quad copter, a robotics competition, 
+While working on these class assignments, two of my classmates and I started to sprinkle in side projects together. We worked on a quad copter, a robotics competition, and an automated fan. These allowed me to gain experience with creating a simple computer system for an isolated project.
