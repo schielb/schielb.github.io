@@ -6,7 +6,7 @@ aliases:
   - about-us
   - contact
 license: CC BY-NC-ND
-lastmod: '2023-06-20'
+lastmod: '2023-06-26'
 menu:
     main: 
         weight: -90
