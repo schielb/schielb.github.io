@@ -1,17 +1,17 @@
-+++
-author = "Bryson Schiel"
-title = "Hello World"
-date = "Jun 12, 2023"
-description = "Creating my first blog post on my own personal website."
-tags = [
+---
+author: Bryson Schiel
+title: Hello World
+date: 2023-06-12
+description: Creating my first blog post on my own personal website.
+tags:  [
     "blog",
 ]
-categories = [
+categories:  [
     "blog",
 ]
-series = ["Blog"]
-image = "hello_world.png"
-+++
+series: ["Blog"]
+image: "hello_world.png"
+---
 
 This is my Hello World
 <!--more-->
