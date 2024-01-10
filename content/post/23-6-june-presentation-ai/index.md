@@ -31,3 +31,8 @@ One major question in the mid twentieth century was, "Can these machines be taug
 
 ## (Big) Jump to Today
 
+Obviously, a lot of time has passed since the 50's, and a lot has happened, too. Various AIs have approached and even met the Turing Test, but [in November of 2022, one particular AI caught the world by storm](https://openai.com/blog/chatgpt). That is of course [ChatGPT](https://chat.openai.com/).
+
+With this new model, you could try and do a lot creatively with the written word, from writing a poem to planning a DnD campaign (I've used it for both!). ChatGPT could work with different languages and even parse through texting abbreviations. It also opened the public's eyes to other models that can [create music](https://www.unite.ai/best-ai-music-generators/) or [generate images](https://www.zdnet.com/article/best-ai-art-generator/) using AI. Long story short, in a matter of months, everyone, from businesses to individuals, realized what AI could do. And it could do a lot.
+
+"So what can it do for me?" This question seemed to be asked by a lot of people, including students who were tasked with writing those pesky essays for school. Could ChatGPT write for them? The answer was a resounding "Yes", and [to a lot of alarm](https://nypost.com/2022/12/26/students-using-chatgpt-to-cheat-professor-warns/).
