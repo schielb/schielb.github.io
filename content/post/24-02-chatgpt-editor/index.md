@@ -1,6 +1,6 @@
 ---
 author: Bryson Schiel
-title: Turning ChatGPT into My Personal Writing Coach
+title: Turning ChatGPT into My Personal Writing Coach - Duolingo Style
 date: 2024-02-08
 description: The content we ought to value the most is human generated. Doesn't mean we can't make the AI work for us, though.
 tags:  [
