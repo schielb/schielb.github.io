@@ -28,7 +28,7 @@ My most recent work has involved automating testing software that evaluates V2X 
 
 I grew up near Seattle, Washington. I've always loved the Pacific Northwest, and I couldn't be prouder of where I come from. While the school year was usually busy with class, clubs, and the occasional sport, my family loved to spend our summers having fun in Washington's beautiful outdoors. I'm a huge fan of canoeing, kayaking, crabbing, camping, and so on. I was an active member of my Boy Scouts of America troop and even earned the rank of Eagle Scout at age 15, later on earning the Silver Palm before leaving high school.
 
-Growing up, I had a lot of opportunities to use computers for school and personal activities. (I loved making slideshows especially, after learning about those in early elementary school!) Later on, I started to understand more about the inner workings of computers, and I jumped at chances to learn more through programs like MIT's Scratch and classes about computer technology and programming. While plenty of topics in school fascinated me, I was excited to see how computer science came almost naturally. In my junior year I took AP computer Science and was part of a team that competed in (though, more like attended 🙃) a Hunt the Wumpus competition at Microsoft headquarters in Redmond.
+Growing up, I had a lot of opportunities to use computers for school and personal activities. (I loved making slideshows especially, after learning about those in early elementary school!) Later on, I started to understand more about the inner workings of computers, and I jumped at chances to learn more through programs like MIT's Scratch and classes about computer technology and programming. While plenty of topics in school fascinated me, I was excited to see how computer science came almost naturally. In my junior year I took AP Computer Science and was part of a team that competed in (though, more like attended 🙃) a Hunt the Wumpus competition at Microsoft headquarters in Redmond.
 
 While still in middle school, I learned about computer engineering from a scoutmaster who had gotten his PhD in ECEn at BYU as well. At the time, he was working at Microsoft, and as pat of a scouting merit badge requirement, I got to shadow him at work. That just about sealed the deal for me. I had figured by that point that I wanted to do something with computers, and I liked the balance that I would get to strike between software and hardware as a computer engineer.
 
@@ -60,10 +60,10 @@ I graduated with my bachelors in Computer Engineering in April of 2022. Go Cougs
 
 The summer between graduation and grad school, I was approached by the advisor of the Spacecraft Club and was asked to lead a workshop where university students would come from Chiapas, Mexico to learn the basic principles for designing their own CubeSat device. The workshop ran for three weeks, and it was a massive success and joy to get to work with this group!
 
-Since then I have been taking more classes about digital systems, as well as classes revolving around the mathematics and techniques of agents, systems, high-performance computing, and statistics.
+Since then I have been taking more classes about digital systems, as well as classes revolving around the mathematics and techniques of agents, systems, high-performance computing, robotic vision, and statistics.
 
 ### IEEE VNC 2023
 
 The highlight of my first year of grad school (aside from getting married!) was going to Turkey to present on our lab's work in the field of Vehicle Networking (V2X, if you're familiar with it). [I presented a poster](https://ieeexplore.ieee.org/document/10136347) at [IEEE's 2023 Vehicular Networking Conference](https://ieee-vnc.org/2023/). This was a great success for the lab and a great opportunity to travel the world!
 
-![To my everlasting dismay I forgot to get a photo of myself during the poster session... so go ahead and enjoy this on of my wife, Kelli, and me taking a cruise with the rest of the conference along the Bosporus Strait!](turkey.jpg)
+![To my everlasting dismay I forgot to get a photo of myself during the poster session... so go ahead and enjoy this one of my wife, Kelli, and me taking a cruise with the rest of the conference along the Bosporus Strait!](turkey.jpg)

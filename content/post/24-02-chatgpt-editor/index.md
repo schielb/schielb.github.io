@@ -46,12 +46,11 @@ But when it comes to a five-minute writing goal that you are trying to sustain d
 
 If only there was someone—or some*thing*—who had the patience and capacity to edit your work regularly, who could so masterfully keep an eye on things like coherence, clarity, paragraph length, and so much more.
 
-<!-- <p align="center">
-![Well wait...](./evil-smirk.gif)
-</p> -->
-
-
 ![](evil-smirk.gif)
 
+## Where I'm at Now
 
+Well, in case you were wondering, I eventually managed to connect the dots for myself and start using ChatGPT as my personal writing coach. I manage to keep it to relatively small prompts every time, and it's a great activity to do when I'm in between larger projects in my daily routine. It keeps my mind on writing in general, and it even gets me to think more about the larger writing projects I have, such as papers and blog articles (*et voila,* I have finally published this one!). 
+
+I'm still working towards 
 
