@@ -1,0 +1,14 @@
+---
+author: Bryson Schiel
+title: Title
+date: YYYY-MM-DD
+description: Description
+tags = [
+    "blog",
+]
+categories = [
+    "blog",
+]
+series = ["Blog"]
+image: "image.ext"
+---
