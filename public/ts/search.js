@@ -155,6 +155,7 @@
         const keywords = this.input.value.trim();
         _Search.updateQueryString(keywords, true);
         if (keywords === "") {
+          lastSearch = "";
           return this.clear();
         }
         if (lastSearch === keywords)
