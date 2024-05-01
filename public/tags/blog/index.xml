@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on Bryson Schiel</title>
+        <link>http://localhost:1313/tags/blog/</link>
+        <description>Recent content in Blog on Bryson Schiel</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>http://localhost:1313/p/hello-world/</link>
+        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/hello-world/</guid>
+        <description>&lt;img src="http://localhost:1313/p/hello-world/hello_world.png" alt="Featured image of post Hello World" /&gt;&lt;p&gt;This is my Hello World&lt;/p&gt;
+&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;This is my first (okay, like my third today) attempt at making a personal website using Hugo and the Stack theme! Let&amp;rsquo;s see if this page gets to stick around ;)&lt;/p&gt;
+&lt;h2 id=&#34;jun-28-update&#34;&gt;Jun 28 Update&lt;/h2&gt;
+&lt;p&gt;Hello world, my name is Bryson Schiel, and you can find more about me &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/about/&#34;  title=&#34;A Bit About Bryson&#34;
+    &gt;here&lt;/a&gt;. I am creating this blog to &lt;a class=&#34;link&#34; href=&#34;https://matt.might.net/articles/grad-student-resolutions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;follow the advice of Dr. Matt Might&lt;/a&gt; (see point 11 on this site). As a PhD student (and future PhD graduate 🤞), I will have plenty of opportunities to write and communicate. With that in mind, I suppose that I should then become at least somewhat competent at things like writing and communicating - ergo, the need for a space where I can practice these skills and even let myself flounder a bit on my path to becoming the best I can be in the field.&lt;/p&gt;
+&lt;p&gt;Thanks for joining me on this journey! I hope that I can provide you as a reader with some good insights or at least a good laugh here or there ;)&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
