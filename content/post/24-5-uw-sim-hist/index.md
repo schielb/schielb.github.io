@@ -2,7 +2,7 @@
 author: Bryson Schiel
 title: A Brief History of Underwater Networking Simulators
 date: 2024-05-01
-description: 
+description: Let's get simulate-y
 tags:  [
     "blog",
 ]
